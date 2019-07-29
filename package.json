@@ -10,8 +10,12 @@
   "dependencies": {
     "core-js": "^2.6.5",
     "element-ui": "^2.11.1",
+    "filepond": "^4.4.11",
+    "filepond-plugin-file-validate-type": "^1.2.4",
+    "filepond-plugin-image-preview": "^4.2.1",
     "mockjs": "^1.0.1-beta3",
     "vue": "^2.6.10",
+    "vue-filepond": "^5.1.2",
     "vue-router": "^3.0.3",
     "vuex": "^3.0.1"
   },
