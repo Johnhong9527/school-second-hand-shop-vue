@@ -27,3 +27,8 @@ yarn run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## 校园二手交易市场 前端 
+
+### 技术栈
+vue+vuex+vue-router+element-ui
